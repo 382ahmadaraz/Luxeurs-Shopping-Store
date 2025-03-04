@@ -29,14 +29,14 @@ export default function ToggleMenu() {
       {isOpen && (
         <div
           ref={menuRef}
-          className="fixed top-0 z-20 right-0 w-[30%] h-full bg-white border-l shadow-lg"
+          className="fixed top-0 z-20 right-0 w-[300px] h-full bg-white border-l shadow-lg"
         >
           <div className="flex justify-between items-center p-4 border-b">
             <span className="font-semibold">Shopping Cart (0)</span>
             <button onClick={() => setIsOpen(false)} className="text-red-500 text-3xl p-2 hover:text-lightBlue">&times;</button>
           </div>
           <div className="flex flex-col items-center justify-center h-[70%] gap-8">
-            <p className="text-2xl">Your cart is currently empty.</p>
+            <p className="md:text-xl">Your cart is currently empty.</p>
             <Image src={cary} alt="carry" className="bg-lightBlue rounded-full p-3"></Image>
           </div>
            

@@ -8,6 +8,9 @@ export default {
   ],
   theme: {
     extend: {
+      screens:{
+        xs : "480px" ,
+      },
       colors: {
         lightBlue:"#41cde2",
         orange :"#ff4e00",
