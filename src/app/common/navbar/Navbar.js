@@ -94,7 +94,7 @@ export default function Navbar() {
  
       {/* Navbar for Above Lg Screens */}
       <div className="hidden lg:block ">
-        <div className=" bg-white z-10 h-[90px] w-full flex items-center justify-around ">
+        <div className=" bg-white z-10 h-[80px] w-full flex items-center justify-around ">
           <div className="h-full lg:w-[11%]  flex justify-center items-center">
             <Link href={"/"}><Image src={logo} alt='logo-ad' className=" cursor-pointer" /></Link>
           </div>

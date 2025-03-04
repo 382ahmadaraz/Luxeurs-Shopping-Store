@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function ShopAllDetails() {
   return (
-    <div> 
+    <div className='w-[90%] m-auto'> 
         <h1 className='text-zinc-500 font-semibold'>Unleash the Magic of Fashion with Luxeurs' Ready to Wear Sale</h1><br/>
         <p className='text-lightDark'>
         Are you ready to redefine your style at unbeatable prices? Step into our Ready to Wear Sale, where you can find our exquisite collection of ready to wear Pakistani dresses at irresistible discounts. Luxeurs' Ready to Wear Sale is a celebration of fashion, offering you the chance to own your favourite pieces without breaking the bank.  <br/><br/>

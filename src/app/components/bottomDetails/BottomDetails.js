@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function BottomDetails() {
   return (
-    <div> 
+    <div className='w-[90%] m-auto'> 
         <p className='text-lightDark'>Welcome to Luxeurs’ Bottom Clothing Collection - where elegance, comfort, and style come together. We believe that fashion is not just about what you wear on the top, but the whole ensemble. And that’s why we’ve designed a special line of Bottom Clothing that compliments every outfit and adds a unique charm to your overall look.<br/><br/>Get ready to revolutionize your wardrobe with Luxeurs' Bottom Clothing. Be it a subtle addition to your everyday wear or a glamorous touch to your festive attire, our Bottom Clothing offers you the perfect blend of style, comfort, and quality. Crafted with the finest materials, our Bottom Clothing ensures that you not only look great but also feel amazing.
         <br/><br/>No matter the occasion or the season, Luxeurs’ Bottom Clothing ensures you’re always at the top of your fashion game. Embark on a style journey with us, and let our Bottom Clothing become the cornerstone of your chic and sophisticated wardrobe. Dive into the world of Luxeurs today, and make each day a fashion-forward affair with our extraordinary Bottom Clothing collection.</p><br/>
 

@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function SaleDeatils() {
   return (
-    <div> 
+    <div className='w-[90%] m-auto'> 
         <p className='text-lightDark'>Welcome to Luxeurs' much-awaited Lawn Sale, where high-quality meets affordability. As we usher in the warm summer months, it's time to refresh your wardrobe with our gorgeous unstitched Lawn Collection. Our Summer Sale promises not just a fantastic range of Pakistani dresses but also unbeatable prices.</p><br/>
 
         <h1 className='text-zinc-500 font-semibold'>Lawn Sale: Affordable Luxury at Your Fingertips</h1><br/>

@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function NewArrivalDetails() {
   return (
-    <div> 
+    <div className='w-[90%] m-auto'> 
         <p className='text-lightDark'>Welcome to the captivating world of Luxeurs' New Arrivals! Our latest collection promises to bring an exciting blend of contemporary designs and traditional charm, straight to your wardrobe. As we continue to pioneer new trends in Pakistani fashion, our New Arrivals encapsulate the innovation and style we strive to provide. With every piece in our collection carefully curated and designed, we assure to make every fashion enthusiast's heart skip a beat.</p><br/>
 
         <h1 className='text-zinc-500 font-semibold'>New Arrivals: Fresh Fashion Finds Await</h1><br/>

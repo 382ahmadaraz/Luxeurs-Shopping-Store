@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function FormalDetails() {
   return (
-    <div> 
+    <div className='w-[90%] m-auto'> 
 
         <p className='text-lightDark'>Welcome to Luxeurs’ Formal Collection. Dress to impress with our range of exquisite Formals for Women. We understand the importance of looking your best at formal events, which is why we've curated a selection of breathtaking outfits that personify elegance and sophistication. From subtle sophistication to stunning standout pieces, our Formals for Women are designed to make a lasting impression.</p><br/> 
 
